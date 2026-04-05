@@ -2,7 +2,7 @@ export default function Navbar() {
     return (
         <nav className="fixed top-0 w-full z-50 bg-stone-50/80 backdrop-blur-md">
             <div className="flex justify-between items-center px-12 py-6 max-w-screen-2xl mx-auto">
-                <div className="text-2xl font-serif tracking-tight text-slate-800">Laura Braun</div>
+                <div className="text-2xl font-serif tracking-tight text-slate-800">Elevate With Coaching</div>
                 
                 {/* Desktop Navigation */}
                 <div className="hidden md:flex items-center gap-10 font-serif italic text-lg">
